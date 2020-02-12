@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 ## status
 display
 ##Deployment
+##copyright
+2014 Git.Training
