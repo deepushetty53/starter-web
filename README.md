@@ -9,4 +9,4 @@ Sample website with plenty of files for demos. rebasing example
 display
 ##Deployment
 ##copyright
-2014 Git.Training all rights are reserved
+2014 Git.Training all rights are reserve.welcomwd
